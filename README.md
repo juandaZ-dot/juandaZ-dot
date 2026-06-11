@@ -6,9 +6,9 @@
 
 ### Tecnologías
 <ul>
-- <i>HTML / CSS ![HTML](https://img.shields.io/badge/Code-HTML-orange)</i>
-- <i>SQL ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)</i>
-- <i>Branding & Diseño institucional</i>
+- HTML / CSS ![HTML](https://img.shields.io/badge/Code-HTML-orange)
+- SQL ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
+- Branding & Diseño institucional</i>
 </ul>
 
 ### Proyectos

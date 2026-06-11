@@ -5,9 +5,11 @@
   Intereses:  diseño web, narrativa visual, desarrollar habilidades praticas  
 
 ### Tecnologías
+<ul>
 - <i>HTML / CSS ![HTML](https://img.shields.io/badge/Code-HTML-orange)</i>
-- SQL ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
-- Branding & Diseño institucional
+- <i>SQL ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)</i>
+- <i>Branding & Diseño institucional</i>
+</ul>
 
 ### Proyectos
 - [PCGARFED Login UI](https://github.com/tu-repo)

@@ -1,14 +1,14 @@
-# 👋 Hola, soy Juan David Zuleta
+# Hola, soy Juan David Zuleta
 
-🌱 Consultor documental y desarrollador institucional  
+🌱  desarrollador institucional  
 💻 En formación como tecnólogo en análisis y desarrollo de software  
 ⚡ Intereses:  diseño web, narrativa visual, desarrollar habilidades praticas  
 
-### 🚀 Tecnologías
-- HTML / CSS
-- SQL
+### Tecnologías
+- HTML / CSS ![HTML](https://img.shields.io/badge/Code-HTML-orange)
+- SQL ![SQL](https://img.shields.io/badge/Database-SQL-lightgrey)
 - Branding & Diseño institucional
-![HTML](https://img.shields.io/badge/Code-HTML-orange)
-### 📂 Proyectos
+
+### Proyectos
 - [PCGARFED Login UI](https://github.com/tu-repo)
 - [Sistema de Mantenimiento y Reparación](https://github.com/tu-repo)

@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Juan David Zuleta
 
-<!--
-**juandaZ-dot/juandaZ-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Consultor documental y desarrollador institucional  
+💻 En formación como tecnólogo en análisis y desarrollo de software  
+⚡ Intereses:  diseño web, narrativa visual, desarrollar habilidades praticas  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologías
+- HTML / CSS
+- SQL
+- Branding & Diseño institucional
+![HTML](https://img.shields.io/badge/Code-HTML-orange)
+### 📂 Proyectos
+- [PCGARFED Login UI](https://github.com/tu-repo)
+- [Sistema de Mantenimiento y Reparación](https://github.com/tu-repo)
